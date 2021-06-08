@@ -26,10 +26,10 @@ public class Main{
 			System.out.println("Vuelva pronto");
 			break;
 		case 1:
-			showMenuAlbum();
+
 			break;
 		case 2:
-			collector.showAlbums();
+
 			break;
 		default:
 			System.out.println("Error, opción no válida");
